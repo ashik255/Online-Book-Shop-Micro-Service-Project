@@ -1,6 +1,7 @@
 ## Online Book Shop Micro-Service Project
 ## Setup Environment
 <hr>
+
 - JDK 17
 - Gradle 8.1.1
 - Sprint Boot 2.7.12
