@@ -1,19 +1,6 @@
-# Mid Term Project
+
 ## Online Book Shop Micro-Service Project
 <hr>
-<br>
-
-## Team URSA
-<hr>
-
-### Team Members
-- Sajal Halder
-- Md. Rahat Ibna Hossain
-- Md. Ariful Islam
-- Ullash Bhattacharjee
-
-<br>
-
 ## Setup Environment
 <hr>
 
