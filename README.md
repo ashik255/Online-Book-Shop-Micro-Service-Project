@@ -102,7 +102,7 @@
    
 
     ` {
-    "email":"rahatibnhossain@gmail.com",
+    "email":"ashik@gmail.com",
     "password":"1234",
     "roles": ["ADMIN"]
     } `
@@ -110,13 +110,13 @@
   - Output For Successful Database Operation
   
     ` { "data": {
-        "message": "Successfully registered with the  email rahatibnhossain@gmail.com."
+        "message": "Successfully registered with the  email ashik@gmail.com."
     } }`
 
   - Output For Unsuccessful Database Operation
   
     ` {
-    "error_message": "The requested email rahatibnhossain@gmail.com already registered"             
+    "error_message": "The requested email ashik@gmail.com already registered"             
      }`
 
 <br>
@@ -132,7 +132,7 @@
   - Input 
 
     ` {
-    "email":"rahatibnhossain@gmail.com",
+    "email":"ashik@gmail.com",
     "password":"1234",
     "roles": ["ADMIN"]
     } `
@@ -168,7 +168,7 @@
 
     ` {
      "bookName": "The Fire 2",
-     "authorName": "Rahat",
+     "authorName": "Md Ariful Islam",
      "genre": "Paris Times",
     "price": 20.0,
     "quantity":4
@@ -180,7 +180,7 @@
     "data": {
         "book_id": 1,
         "bookName": "The Fire 2",
-        "authorName": "Rahat",
+        "authorName": "Md Ariful Islam",
         "genre": "Paris Times",
         "price": 20.0,
         "quantity": 4
@@ -217,7 +217,7 @@
     ` {
         "book_id": 4,
         "bookName": "The Fire 6",
-        "authorName": "Rahat Ibna Hossain",
+        "authorName": "Md Ariful Islam",
         "genre": "Paris Times",
         "price": 20.0,
         "quantity": 4 }`
@@ -228,7 +228,7 @@
     "data": {
         "book_id": 4,
         "bookName": "The Fire 6",
-        "authorName": "Rahat Ibna Hossain",
+        "authorName": "Md Ariful Islam",
         "genre": "Paris Times",
         "price": 20.0,
         "quantity": 4
@@ -297,7 +297,7 @@
         {
             "book_id": 1,
             "bookName": "The Fire 2",
-            "authorName": "Rahat",
+            "authorName": "Md Ariful Islam",
             "genre": "Paris Times",
             "price": 20.0,
             "quantity": 4
@@ -305,7 +305,7 @@
         {
             "book_id": 2,
             "bookName": "The Fire 3",
-            "authorName": "Rahat",
+            "authorName": "Md Ariful Islam",
             "genre": "Paris Times",
             "price": 20.0,
             "quantity": 4
@@ -344,7 +344,7 @@
     "data": {
         "book_id": 2,
         "bookName": "The Fire 3",
-        "authorName": "Rahat",
+        "authorName": "Md Ariful Islamt",
         "genre": "Paris Times",
         "price": 20.0,
         "quantity": 4
